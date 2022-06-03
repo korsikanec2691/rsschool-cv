@@ -47,3 +47,10 @@ I am 50+ years old, I work as an operational engineer. I think that my real job 
     </div>
   </header>
 ```
+## __Education__
+---
+Ryazan Modern Tehnical university
+## __Languages__
++ Russian - native speaker;
++ Turkey - A2;
++ English - in process;
