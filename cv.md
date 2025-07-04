@@ -12,5 +12,11 @@
 
 <p> A few words about yourself. I am 50+ years old, a civil engineer by profession. I am very attracted to programming. Therefore, I decided to master the frontend direction in programming. To do this, I decided to become a student at RS-School. I've read a lot of positive reviews about this school, and besides, the tuition is free. I like to overcome difficulties and solve difficult tasks. I would like to express my sincere gratitude to the creators and teachers of the school for the work they have done to train a large number of strong programmers.</p>
 
+<p>I've mastered HTML, CSS, and a bit of JS.</p>
 
-
+```javascript
+function multiply(a, b){
+   return a * b
+}
+```
+[link to my project](https://github.com/korsikanec2691/rsschool-cv)
