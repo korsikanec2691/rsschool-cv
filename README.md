@@ -1,1 +1,1 @@
-https://github.com/korsikanec2691/rsschool-cv/blob/gh-pages/cv.md
+https://korsikanec2691.github.io/rsschool-cv/
