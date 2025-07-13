@@ -13,6 +13,11 @@ body {
   padding: 0;
   background-color: blue;
   font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #4d2323;
+
 }
 .header{
   background-color:#00FF00 ;
@@ -35,7 +40,42 @@ body {
   text-transform: uppercase;
   transition: 0.3s;
 }
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+}
+.section-title {
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #BC8F8F;
+}
+.section-profile{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 6px #DA70D6;
+
+}
+.title-name {
+  text-align: center;
+  font-size: 28px;
+}
+.profile-img {
+  margin: 10px;
+  height: 250px;
+  width: 250px;
+}
 .footer {
   background-color: #6B8E23;
   height: 30px;
+}
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
 }
