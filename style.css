@@ -14,6 +14,9 @@ body {
   background-color: blue;
   font-family: "Roboto", sans-serif;
 }
+.header{
+  background-color:#00FF00 ;
+}
 .container {
   max-width: 1440px;
   margin: 0 auto;
@@ -31,4 +34,8 @@ body {
   color: #000;
   text-transform: uppercase;
   transition: 0.3s;
+}
+.footer {
+  background-color: #6B8E23;
+  height: 30px;
 }
